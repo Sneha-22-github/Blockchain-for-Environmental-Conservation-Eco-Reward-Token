@@ -1,4 +1,7 @@
-# [Eco Reward Token](https://eco-reward-token.vercel.app/)
+Created By Sneha Majhi <br/>
+Enrollment Number:- 22021002016004 <br/>
+Stream :- CSE(AIML)<br/>
+BlockChain for Environmental Conservation(Eco Reward Token) <br/>
 
 ## Description
 
@@ -28,7 +31,7 @@ Eco Reward Token is an ERC-20 token deployed on the Polygon Mumbai Testnet. It a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sauravchamoli17/eco-reward-token.git
+   git clone https://github.com/Sneha-22-github/Blockchain-for-Environmental-Conservation-Eco-Reward-Token.git
 
 2. Install dependencies:
 
